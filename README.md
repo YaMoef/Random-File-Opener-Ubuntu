@@ -5,4 +5,4 @@ The script does collect the amount of files in the directory, select a random nu
 Normally, the script shouldn't open itself.
 
 For now the script does open directories too.
-The script does only work Ubuntu Desktop
+The script does only work Ubuntu Desktop.
